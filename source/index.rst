@@ -28,7 +28,7 @@ The core-service provides land degradation indicators for five African Countries
 
    You can download the `PDF Version of this doucument`_ here.
 
-   .. _PDF Version of this doucument: https://mislanddata.readthedocs.io/_/downloads/en/latest/pdf/
+   .. _PDF Version of this doucument: https://misland22-data-documentation.readthedocs.io/_/downloads/en/latest/pdf/
 
 .. toctree::
    :maxdepth: 3
